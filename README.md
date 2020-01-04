@@ -4,7 +4,6 @@ This is a file which makes the installation of tools Faster for debian based Apt
 
 ## Usage
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```python3
 ./package_installer.py
