@@ -1,2 +1,37 @@
 # Auto_Package_Installer
-This is a Package installer based on debian distribution which is based on APT(Advance Package Tool) which installs all the required tools in one Go 
+
+This is a file which makes the installation of tools Faster for debian based Apt(Advance Package Tool)
+
+## Usage
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```python3
+./package_installer.py
+
+```
+## Requirements
+```
+python3
+
+```
+
+## Modifications
+
+Packages.json
+
+```json
+[  
+    "Some basic packages are already in here",
+   "You can add packages in in here"
+    
+]
+
+```
+
+## Contributing
+Pull requests are welcome. For major changes  or Suggestions   please open an issue first to discuss what you would like to change.
+
+Please make sure to update distribution is  debian and Apt package manager is installed in the Distribution.
+
+
