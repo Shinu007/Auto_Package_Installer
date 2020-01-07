@@ -1,6 +1,4 @@
 [
-	"update",
-	"upgrade",
 	"python3",
 	"tree",
 	"tee",
@@ -11,5 +9,14 @@
 	"tshark",
 	"jupyter",
 	"figlet",
-	"apvlv"
+	"apvlv",
+	"plank",
+	"python3-pip",
+	"youtube-dl",
+	"qbittorrent",
+	"vlc",
+	"tmux",
+	"virtualenv",
+	"docker.io",
+	"tlp"
 ]

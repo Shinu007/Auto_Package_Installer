@@ -12,8 +12,8 @@ if user is None:
 
 installation_packages = json.load(open('Packages.json'))
 
-os.system("sudo apt update -y ")
-os.system("sudo apt upgrade -y")
+os.system("sudo apt update  ")
+os.system("sudo apt upgrade -y --allow-downgrades")
 
 for packages in installation_packages:
 
@@ -25,4 +25,5 @@ os.system("figlet 'Your system will reboot in 10 Seconds press Ctrl+c to stop th
 while time.time() < time_end:
     yes = True
 
-os.system("figlet Yes")
+os.system("figlet Yes Bye")
+os.system("reboot")
