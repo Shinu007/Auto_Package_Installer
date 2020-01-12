@@ -1,8 +1,9 @@
 [
+	"neovim",
 	"python3",
+	"python3-pip",
 	"tree",
 	"tee",
-	"atom",
 	"virtualbox",
 	"wireshark",
 	"nmap",
@@ -18,5 +19,8 @@
 	"tmux",
 	"virtualenv",
 	"docker.io",
-	"tlp"
+	"tlp",
+	"gnome-tweaks",
+	"gparted",
+	"rhythmbox"
 ]
